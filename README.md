@@ -12,5 +12,12 @@
 </a>
 <a href="mailto:balharatanvee@gmail.com">
   <img align="left" alt="Tanvee Balhara | Gmail" width="26px" src="https://github.com/tanvee09/tanvee09/blob/master/images/Gmail.svg" />
-</a>  
+</a>    
   
+<br/>  
+<br/>  
+
+![Tanvee's github stats](https://github-readme-stats.vercel.app/api?username=tanvee09&show_icons=true&count_private=true&hide=prs,stars,issues)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvee09)
