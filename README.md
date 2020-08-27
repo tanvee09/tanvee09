@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there!  Welcome to my Github page... <img src="https://github.com/tanvee09/tanvee09/blob/master/images/Hi.gif" width="29px">  
+<img src="https://github.com/tanvee09/tanvee09/blob/master/images/hello.jpeg" width="200px">  
+  
+#### I'm Tanvee Balhara, a second year Computer Engineering Undergraduate at NSUT
+  
+- 🔭 I’m currently working on a Web Development project
+- 🌱 I’m currently learning Machine Learning
+- 🤔 I’m looking forward to learning App Development
 
-<!--
-**tanvee09/tanvee09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/tanvee-balhara">
+  <img align="left" alt="Tanvee Balhara | Linkedin" width="24px" src="https://github.com/tanvee09/tanvee09/blob/master/images/Linkedin.svg" />
+</a>
+<a href="mailto:balharatanvee@gmail.com">
+  <img align="left" alt="Tanvee Balhara | Gmail" width="26px" src="https://github.com/tanvee09/tanvee09/blob/master/images/Gmail.svg" />
+</a>  
+  
