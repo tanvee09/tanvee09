@@ -2,10 +2,10 @@
 <img src="https://github.com/tanvee09/tanvee09/blob/master/images/hello.jpeg" width="200px">  
   
 #### I'm Tanvee Balhara, a second year Computer Engineering Undergraduate at NSUT
-  
+<!--  
 - 🔭 I’m currently working on a Web Development project
 - 🌱 I’m currently learning Machine Learning
-- 🤔 I’m looking forward to learning App Development
+- 🤔 I’m looking forward to learning App Development -->
 
 <a href="https://www.linkedin.com/in/tanvee-balhara">
   <img align="left" alt="Tanvee Balhara | Linkedin" width="24px" src="https://github.com/tanvee09/tanvee09/blob/master/images/Linkedin.svg" />
