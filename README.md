@@ -17,7 +17,7 @@
 <br/>  
 <br/>  
 
-![Tanvee's github stats](https://github-readme-stats.vercel.app/api?username=tanvee09&show_icons=true&count_private=true&hide=prs,stars,issues)
+![Tanvee's github stats](https://github-readme-stats.vercel.app/api?username=tanvee09&show_icons=true&count_private=true&hide=stars,issues)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvee09)
