@@ -1,5 +1,5 @@
 ## Hi there!  Welcome to my Github page... <img src="https://github.com/tanvee09/tanvee09/blob/master/images/Hi.gif" width="29px">  
-<img src="https://github.com/tanvee09/tanvee09/blob/master/images/hello.jpeg" width="200px">  
+<img src="https://github.com/tanvee09/tanvee09/blob/master/images/heya.gif" width="300px">  
   
 #### I'm Tanvee Balhara, a second year Computer Engineering Undergraduate at NSUT
 <!--  
