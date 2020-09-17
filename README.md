@@ -1,8 +1,9 @@
 ## Hi there!  Welcome to my Github page! <img src="https://github.com/tanvee09/tanvee09/blob/master/images/Hi.gif" width="29px">  
 <p align="center">
   <img src="https://github.com/tanvee09/tanvee09/blob/master/images/heya.gif" width="300px">  
-</p> 
-#### I'm Tanvee Balhara, a second year Computer Engineering Undergraduate at NSUT.
+</p>   
+  
+#### I'm Tanvee Balhara, a second year Computer Engineering Undergraduate at NSUT.  
 <!--  
 - 🔭 I’m currently working on a Web Development project
 - 🌱 I’m currently learning Machine Learning
