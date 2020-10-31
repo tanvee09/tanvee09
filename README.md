@@ -13,7 +13,10 @@
 <img src="https://github.com/tanvee09/tanvee09/blob/master/images/heya.gif" width="300px" align="center">
 </p>
   
-#### I'm Tanvee Balhara, a second year Computer Engineering Undergraduate at NSUT.  
+<h3 align="center">
+I'm Tanvee Balhara, a second year Computer Engineering Undergraduate at NSUT.  
+</h3>
+
 <!--  
 - 🔭 I’m currently working on a Web Development project
 - 🌱 I’m currently learning Machine Learning
@@ -23,4 +26,4 @@
   
 <br/>  
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvee09&show_icons=true&locale=en&layout=compact" alt="tanvee09" height="150"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=tanvee09&show_icons=true&locale=en&count_private=true&hide=stars,issues" alt="tanvee09" height="150"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvee09&show_icons=true&locale=en&layout=compact" alt="tanvee09" height="150"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=tanvee09&show_icons=true&locale=en&count_private=true&hide=stars,issues" alt="tanvee09" height="150"/></p>
