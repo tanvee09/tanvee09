@@ -6,9 +6,12 @@
   </a>
   <a href="mailto:balharatanvee@gmail.com">
     <img align="right" alt="Tanvee Balhara | Gmail" width="26px" src="https://github.com/tanvee09/tanvee09/blob/master/images/Gmail.svg" />
-  </a>  <br>
-  <img src="https://github.com/tanvee09/tanvee09/blob/master/images/heya.gif" width="300px">  
-</p>   
+  </a> 
+</p> 
+ <br>
+<p align="center">
+<img src="https://github.com/tanvee09/tanvee09/blob/master/images/heya.gif" width="300px" align="center">
+</p>
   
 #### I'm Tanvee Balhara, a second year Computer Engineering Undergraduate at NSUT.  
 <!--  
