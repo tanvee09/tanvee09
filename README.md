@@ -1,6 +1,7 @@
 ## Hi there!  Welcome to my Github page! <img src="https://github.com/tanvee09/tanvee09/blob/master/images/Hi.gif" width="29px">  
 <p align="center">
   <img src="https://github.com/tanvee09/tanvee09/blob/master/images/heya.gif" width="300px">  
+  <img align="right" src="https://komarev.com/ghpvc/?username=tanvee09&label=Profile%20views&color=0e75b6&style=flat" alt="tanvee09" />
 </p>   
   
 #### I'm Tanvee Balhara, a second year Computer Engineering Undergraduate at NSUT.  
@@ -19,7 +20,6 @@
 <br/>  
 <br/>  
 
-![Tanvee's github stats](https://github-readme-stats.vercel.app/api?username=tanvee09&show_icons=true&count_private=true&hide=stars,issues)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvee09&show_icons=true&locale=en&layout=compact" alt="tanvee09" /></p>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvee09)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvee09&show_icons=true&locale=en&count_private=true&hide=stars,issues" alt="tanvee09" /></p>
