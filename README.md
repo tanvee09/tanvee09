@@ -26,4 +26,4 @@ I'm Tanvee Balhara, a second year Computer Engineering Undergraduate at NSUT.
   
 <br/>  
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvee09&show_icons=true&locale=en&layout=compact" alt="tanvee09" height="180"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=tanvee09&show_icons=true&locale=en&count_private=true&hide=issues" alt="tanvee09" height="180"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvee09&show_icons=true&locale=en&layout=compact" alt="tanvee09" height="150"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=tanvee09&show_icons=true&locale=en&count_private=true&hide=issues" alt="tanvee09" height="150"/></p>
