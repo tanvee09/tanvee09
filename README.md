@@ -14,7 +14,13 @@
 </p>
   
 <h3 align="center">
-I'm Tanvee Balhara, a second year Computer Engineering Undergraduate at NSUT.  
+I'm Tanvee Balhara, 
+</h3>
+<h3 align="center">
+a second year Computer Engineering Undergraduate at NSUT,
+</h3>
+<h3 align="center">
+and a Google WTEF scholar.
 </h3>
 
 <!--  
