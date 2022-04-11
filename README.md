@@ -13,15 +13,13 @@
 <img src="https://github.com/tanvee09/tanvee09/blob/master/images/heya.gif" width="300px" align="center">
 </p>
   
-<h3 align="center">
+<p align="center">
 I'm Tanvee Balhara, 
-</h3>
-<h3 align="center">
-a second year Computer Engineering Undergraduate at NSUT,
-</h3>
-<h3 align="center">
+<br/>
+a third year Computer Engineering Undergraduate at NSUT,
+<br/>
 and a Google WTEF scholar.
-</h3>
+</p>
 
 <!--  
 - 🔭 I’m currently working on a Web Development project
