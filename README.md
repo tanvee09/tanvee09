@@ -1,25 +1,19 @@
 ## Hi there!  Welcome to my Github page! <img src="https://github.com/tanvee09/tanvee09/blob/master/images/Hi.gif" width="29px">  
-<p align="right">
+<!-- <p align="center">
+<img src="https://github.com/tanvee09/tanvee09/blob/master/images/heya.gif" width="300px" align="center">
+</p> -->
+<p align="left">
+I'm Tanvee Balhara, a final year Computer Engineering Undergraduate student at NSUT, Delhi. I have done STEP and SWE internships at Google in summer of 2021 and 2022 respectively, and have been selected as Google Women Engineers Scholar in 2020.
+</p>
+<p align="left">
   <a href="https://www.linkedin.com/in/tanvee-balhara">
     <img alt="Tanvee Balhara | Linkedin" width="24px" src="https://github.com/tanvee09/tanvee09/blob/master/images/Linkedin.svg" />
   </a> &nbsp;
   <a href="mailto:balharatanvee@gmail.com">
     <img alt="Tanvee Balhara | Gmail" width="26px" src="https://github.com/tanvee09/tanvee09/blob/master/images/Gmail.svg" />
   </a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=tanvee09&label=Profile%20views&color=0e75b6&style=flat" alt="tanvee09" height="24px"/>
+<!--   <img src="https://komarev.com/ghpvc/?username=tanvee09&label=Profile%20views&color=0e75b6&style=flat" alt="tanvee09" height="24px"/> -->
 </p> 
-<br/>
-<p align="center">
-<img src="https://github.com/tanvee09/tanvee09/blob/master/images/heya.gif" width="300px" align="center">
-</p>
-  
-<p align="center">
-I'm Tanvee Balhara, 
-<br/>
-a third year Computer Engineering Undergraduate at NSUT,
-<br/>
-and a Google WTEF scholar.
-</p>
 
 <!--  
 - 🔭 I’m currently working on a Web Development project
