@@ -3,9 +3,6 @@
 <img src="https://github.com/tanvee09/tanvee09/blob/master/images/heya.gif" width="300px" align="center">
 </p> -->
 <p align="left">
-I'm Tanvee Balhara, a final year Computer Engineering Undergraduate student at NSUT, Delhi. I have done STEP and SWE internships at Google in summer of 2021 and 2022 respectively, and have been selected as Google Women Engineers Scholar in 2020.
-</p>
-<p align="left">
   <a href="https://www.linkedin.com/in/tanvee-balhara">
     <img alt="Tanvee Balhara | Linkedin" width="24px" src="https://github.com/tanvee09/tanvee09/blob/master/images/Linkedin.svg" />
   </a> &nbsp;
